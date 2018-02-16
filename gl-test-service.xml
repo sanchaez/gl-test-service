@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="scz" fetch="https://github.com/sanchaez/" />
-  <project name="gl-test-service" remote="scz" path="packages/services/GlTestService" revision="master"/>
+  <project name="gl-test-service" remote="scz" path="packages/services/GlTestService" revision="makefile-master"/>
 </manifest>
